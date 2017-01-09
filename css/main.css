@@ -11,3 +11,98 @@ div {
   padding: .5rem;
   text-align: center;
 }
+
+.btn {
+  padding: .5rem;
+  text-align: center;
+  display: block;
+}
+
+.btn-subtle {
+  text-align: center;
+  background-color: grey;
+}
+
+.btn-ghost {
+  text-align: center;
+  border: 3px solid black;
+}
+
+.btn-warning {
+  text-align: center;
+  background-color: red;
+}
+
+.btn-primary {
+  padding: .5rem;
+  text-align: center;
+  background-color: black;
+}
+
+.btn-small {
+  text-align: center;
+  font-size: .875rem;
+  background-color: grey;
+}
+
+.ghost-small {
+  padding: .5rem;
+  text-align: center;
+  border: 3px solid black;
+}
+
+.warning-small {
+  padding: .5rem;
+  text-align: center;
+  background-color: red;
+}
+
+.primary-small {
+  padding: .5rem;
+  text-align: center;
+  background-color: black;
+}
+
+.subtle-big {
+  padding: .5rem;
+  text-align: center;
+  background-color: grey;
+}
+
+.btn-big {
+  text-align: center;
+  font-size: 1.5rem;
+  border: 3px solid black;
+}
+
+.ghost-big{
+  padding: .5rem;
+  text-align: center;
+  border: 3px solid black;
+}
+
+.warning-big {
+  padding: .5rem;
+  text-align: center;
+  background-color: red;
+}
+.btn:hover {
+
+}
+
+.btn-subtle:hover {
+  text-align: center;
+}
+
+.btn-ghost:hover {
+  text-align: center;
+}
+
+.btn-warning:hover {
+  text-align: center;
+}
+
+.btn-primary:hover {
+  padding: .5rem;
+  text-align: center;
+}
